@@ -1,0 +1,27 @@
+{
+  "name": "Tulsi-tea-by-tesseract",
+  "version": "1.0.0",
+  "description": "designed by ARYA NIMESHKUMAR SHAH ",
+  "main": "1.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "v14.x",
+    "npm": "6.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ARYA NIMESHKUMAR SHAH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "multiparty": "^4.2.2",
+    "nodemailer": "^6.7.2",
+    "path": "^0.12.7"
+  }
+}
